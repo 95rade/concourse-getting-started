@@ -1,0 +1,1 @@
+fly -t mx-linux sp -p concourse-petclinic -c pipelines/pipeline.yml -l pipelines/creds.yml
